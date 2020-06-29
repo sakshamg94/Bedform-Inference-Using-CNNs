@@ -1,4 +1,4 @@
-# Bedform-Inference-Using-CNNs based on Free Surface Images using CNNs ([Interactive Code](https://github.com/sakshamg94/Bedform-Inference-Using-CNNs/blob/master/Conv2D_code.ipynb))
+# Bedform-Inference-Using-CNNs based on Free Surface Images using CNNs ([Interactive Code & visuals](https://github.com/sakshamg94/Bedform-Inference-Using-CNNs/blob/master/Conv2D_code.ipynb))
 CNNs for Underwater bedform inference
 
 - **Introduction:** In this notebook, I capture the details for my multi-class classifcation project based on a Convolutional Neural Network. This analysis is for a project listed on <a href="https://web.stanford.edu/~sakshamg/portfolio/bathymetry_inversion">my website</a>. I strongly recommend a quick reading of the introduction there to get an overview of what's to follow. If you are interested in more details, you can see <a href="https://web.stanford.edu/~sakshamg/assets/docs/JFM1_R1.pdf">my publication</a> which is under review. 
